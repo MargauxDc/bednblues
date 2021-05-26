@@ -1131,6 +1131,10 @@ section {
 .testimonial-img {
  height: 400px;
  width: 400px;
+ margin-top: 20px;
+ margin-left: 10px;
+ padding: 10px;
+ }
 }
 
 
